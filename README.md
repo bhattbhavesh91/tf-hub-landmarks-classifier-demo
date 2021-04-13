@@ -1,7 +1,14 @@
 # Introduction to TensorFlow Hub (TFHub)
 
-* [Click here](https://youtu.be/-lw4n36tpD4)
-* Click on the image below
+## To view the video
+
+<table>
+   <tr>
+      <td><a href="http://www.youtube.com/watch?v=-lw4n36tpD4" target="_blank"><img height="50" src = "https://img.shields.io/youtube/views/-lw4n36tpD4?color=blue&label=Watch%20on%20YouTube&logo=youtube&logoColor=red&style=for-the-badge"></a></td>
+   </tr>
+</table>
+
+or click on the image below
 
 [![Introduction to TensorFlow Hub (TFHub)](http://img.youtube.com/vi/-lw4n36tpD4/0.jpg)](http://www.youtube.com/watch?v=-lw4n36tpD4)
 
